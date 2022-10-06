@@ -391,6 +391,7 @@ h3 {
 
 
 .footer__rrss {
+    color: white;
         display: flex;
         justify-content: space-between;
         /* align-items: center;  */
@@ -402,3 +403,4 @@ h3 {
         text-align: center;
         color: black;
     }
+
